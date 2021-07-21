@@ -1,0 +1,2 @@
+ALTER TABLE `users`
+ADD COLUMN `kits` INT(11) NOT NULL DEFAULT '0';
